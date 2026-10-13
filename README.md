@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0200-number-of-islands) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0994-rotting-oranges) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2261-k-divisible-elements-subarrays](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2261-k-divisible-elements-subarrays) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/MichalPlanetaDev/LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -179,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
