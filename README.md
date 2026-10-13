@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0198-house-robber) |
 | [2430-maximum-deletions-on-a-string](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/MichalPlanetaDev/LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 ## String Matching
 |  |
@@ -202,4 +204,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 <!---LeetCode Topics End-->
