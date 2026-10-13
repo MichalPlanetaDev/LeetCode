@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2261-k-divisible-elements-subarrays](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2261-k-divisible-elements-subarrays) |
+| [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/MichalPlanetaDev/LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2261-k-divisible-elements-subarrays](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2261-k-divisible-elements-subarrays) |
+| [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/MichalPlanetaDev/LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0198-house-robber) |
 | [2430-maximum-deletions-on-a-string](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
+| [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/MichalPlanetaDev/LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 ## String Matching
 |  |
 | ------- |
