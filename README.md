@@ -140,10 +140,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
@@ -162,4 +164,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0022-generate-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
