@@ -14,12 +14,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2261-k-divisible-elements-subarrays](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2261-k-divisible-elements-subarrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2261-k-divisible-elements-subarrays](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2261-k-divisible-elements-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -71,10 +73,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [2261-k-divisible-elements-subarrays](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2261-k-divisible-elements-subarrays) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [2261-k-divisible-elements-subarrays](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2261-k-divisible-elements-subarrays) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -83,4 +87,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Trie
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2261-k-divisible-elements-subarrays) |
+## Enumeration
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2261-k-divisible-elements-subarrays) |
 <!---LeetCode Topics End-->
