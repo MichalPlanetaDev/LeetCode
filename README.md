@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0739-daily-temperatures) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0022-generate-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2430-maximum-deletions-on-a-string](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
 ## Bit Manipulation
 |  |
