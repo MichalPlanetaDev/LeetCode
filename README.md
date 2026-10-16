@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [1004-max-consecutive-ones-iii](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,4 +225,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
