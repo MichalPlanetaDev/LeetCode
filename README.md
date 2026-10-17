@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2261-k-divisible-elements-subarrays](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2261-k-divisible-elements-subarrays) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/MichalPlanetaDev/LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Counting Sort
 |  |
 | ------- |
