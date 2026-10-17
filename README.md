@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0200-number-of-islands) |
+| [0239-sliding-window-maximum](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0239-sliding-window-maximum](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Rolling Hash
 |  |
@@ -219,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
@@ -256,4 +260,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
