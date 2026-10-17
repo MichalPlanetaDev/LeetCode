@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0198-house-robber) |
 | [2430-maximum-deletions-on-a-string](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/MichalPlanetaDev/LeetCode/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 ## String Matching
 |  |
@@ -171,12 +172,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0207-course-schedule) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0994-rotting-oranges) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Union-Find
 |  |
 | ------- |
@@ -200,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0207-course-schedule) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Topological Sort
 |  |
 | ------- |
