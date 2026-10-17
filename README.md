@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2485-find-the-pivot-integer](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [2485-find-the-pivot-integer](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
