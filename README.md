@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2485-find-the-pivot-integer](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Monotonic Stack
@@ -277,4 +278,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
