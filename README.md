@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Monotonic Stack
 |  |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0198-house-robber) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2430-maximum-deletions-on-a-string](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/MichalPlanetaDev/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -284,4 +286,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/MichalPlanetaDev/LeetCode/tree/master/0060-permutation-sequence) |
+## Combinatorics
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/MichalPlanetaDev/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
